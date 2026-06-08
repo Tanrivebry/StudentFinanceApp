@@ -1,0 +1,4 @@
+Pemasukan,Uang Saku,1000000.0,08-06-2026,Orang Tua
+Pemasukan,Uang kuliah,2000000.0,08-06-2026,Orang Tua
+Pemasukan,Uang Bulanan,2000000.0,09-06-2026,Orang Tua
+Pengeluaran,Uang Jajan,200000.0,09-06-2026,Orang Tua
